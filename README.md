@@ -1,6 +1,6 @@
-## 🛠️ Project Name
+## 🛠️ Minparser
 
-**Minparser. A minimal command-line string parser for no practical use :)**
+**A minimal command-line string parser for no practical use at all :)**
 
 ---
 
